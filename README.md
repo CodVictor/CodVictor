@@ -1,62 +1,68 @@
-<h4 align="left">Hi 👋! I'm Victor<br>👨‍💻 Software Engineer passionate about clean and efficient code.<br>🚀 Always learning and exploring new technologies.<br>⚡ Problem solver who loves optimizing systems.<br>🔗 Let’s build something great together!</h4>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-###
+<img src="https://github.com/CodVictor/CodVictor/blob/47f30f76425ce71bd7517e53722ebdc6779c0233/VictorOliveira.png" width="100%" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodVictor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodVictor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <p>
+    <em>
+      As a Software Engineering student, I am deeply passionate about designing and developing software solutions.  
+    I continuously refine my skills across various technologies and programming languages, striving to create  
+    efficient, well-structured, and innovative applications.
+    </em>
+  </p>
 </div>
 
-###
+<p align="center"><em>My Visitors</em> </p>
+<p align="center"><img src="https://profile-counter.glitch.me/CodVictor/count.svg" alt="Visitor's Count" /></p>
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/57/8f/9d/578f9d0eb318fc833aaa1885734fdf0d.jpg"  />
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-###
+Experienced software developer with expertise in various programming languages, frameworks, and technologies. Here's a quick overview:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+- **Java**, **Python**, **JavaScript**, **SQL**  
+- Proficient in developing efficient, scalable solutions.
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Web Development
+- **HTML5**, **CSS3**, **JavaScript**, **React**, **Vue.js**  
+- Focused on building responsive, user-friendly websites.
+- Experienced with **Java** (Spring Boot) and **Python** (Django).  
+- Strong background in designing APIs and backend systems.
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Databases
+- Proficient in **MySQL**, **PostgreSQL**, **MongoDB**, **Redis**.  
+- Skilled in **SQL queries**, **data modeling**, and **database optimization**.
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px> </picture> Cloud & DevOps
+- Knowledge of **AWS**, **Google Cloud**, **Azure**, and containerization tools like **Docker** and **Kubernetes**.
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture>Version Control & Agile
+- Experienced with **Git** and platforms like **GitHub**, **GitLab**.  
+- Familiar with **Agile** methodologies and tools like **Jira**.
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Additional Skills
+- **Machine Learning**: **TensorFlow**, **Scikit-learn**  
+- **Mobile Development**: **React Native**, **Flutter**  
+- **CI/CD**: **Jenkins**, **Travis CI**
+<br>
+<div align="center">
+  <p>
+    <em>
+Always learning and staying updated with the latest technologies to build cutting-edge solutions.
+ </em>
+  </p>
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  <a href="https://www.linkedin.com/in/victorhugoolpe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+<p align="center">
+  <a href="https://open.spotify.com/intl-es/track/2qOm7ukLyHUXWyR4ZWLwxA?si=069dc648e3a64ba9">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify" />
   </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodVictor/CodVictor/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodVictor/CodVictor/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodVictor/CodVictor/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-  ## 💰
-  ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) 
+  &nbsp;&nbsp;&nbsp; <!-- Espacios para separar las imágenes -->
+  <img height="150" src="https://i.pinimg.com/736x/57/8f/9d/578f9d0eb318fc833aaa1885734fdf0d.jpg" />
+</p>
