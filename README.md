@@ -28,6 +28,8 @@ Socrates
 </div>
 <br>
 <br>
+<br>
+<br>
 <div align="center">
 <details>
   <summary>Click Here</summary>
