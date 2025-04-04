@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <img src="https://github.com/CodVictor/CodVictor/blob/47f30f76425ce71bd7517e53722ebdc6779c0233/VictorOliveira.png" width="100%" />
 
@@ -17,7 +16,18 @@
 <p align="center"><em>My Visitors</em> </p>
 <p align="center"><img src="https://profile-counter.glitch.me/CodVictor/count.svg" alt="Visitor's Count" /></p>
 
-
+<div align="center">
+  <p>
+    <em>
+"The secret of change is to focus all of your energy, not on fighting the old, but on building the new." 
+ </em>
+  </p>
+</div>
+<div align="center">
+Socrates
+</div>
+<br>
+<br>
 <div align="center">
 <details>
   <summary>Click Here</summary>
@@ -55,16 +65,7 @@ Familiar with **Agile** methodologies and tools like **Jira**.
 </details>
 </div>
 <br>
-<div align="center">
-  <p>
-    <em>
-"The secret of change is to focus all of your energy, not on fighting the old, but on building the new." 
- </em>
-  </p>
-</div>
-<div align="center">
-Socrates
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -76,3 +77,5 @@ Socrates
   &nbsp;&nbsp;&nbsp; <!-- Espacios para separar las imágenes -->
   <img height="150" src="https://i.pinimg.com/736x/57/8f/9d/578f9d0eb318fc833aaa1885734fdf0d.jpg" />
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
