@@ -14,7 +14,9 @@
 </div>
 
 <p align="center"><em>My Visitors</em> </p>
-<p align="center"><img src="https://profile-counter.glitch.me/CodVictor/count.svg" alt="Visitor's Count" /></p>
+<p align="center">
+  <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FCodVictor%2FCodVictor?color=39ff14&label=visitas&size=small" alt="contador de visitas" />
+</p>
 
 <div align="center">
   <p>
