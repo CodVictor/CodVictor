@@ -17,4 +17,4 @@ A Software Engineering Student and trilingual developer (ES/PT/EN) focused on bu
 
 ### Let's Connect
 
-* [LinkedIn](https://www.linkedin.com/in/victorhugoolipe/)
+* [LinkedIn](https://www.linkedin.com/in/victorhugoolpe/)
